@@ -5,3 +5,6 @@ hello babe
 Yoooo
 Wassup
 >>>>>>> 8f40ed9f0e32036a5dfb19b1c36cfe2c617bc5b9
+humm humm
+bumm bumm
+I've updated some changes
